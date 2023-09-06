@@ -2,5 +2,5 @@
 
 Following along with Maximilian Schwarzmüller's React - The Complete Guide 2023 (incl. React Router & Redux) Udemy course
 
-![alt text](https://github.com/biggie9925/react-forms/blob/main/screenshots/1.jpg?raw=true)
+![alt text](https://github.com/biggie9925/react-forms/blob/master/screenshots/1.jpg?raw=true)
 
